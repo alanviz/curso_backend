@@ -1,0 +1,121 @@
+body {
+    background: #373B44;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #4286f4, #373B44);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #4286f4, #373B44); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.redirect {
+    transition-duration: 0.4s;
+    background: #5ABAE8;
+    background: -webkit-linear-gradient(top left, #5ABAE8, #197F7D);
+    background: -moz-linear-gradient(top left, #5ABAE8, #197F7D);
+    background: linear-gradient(to bottom right, #5ABAE8, #197F7D);
+    margin-bottom: 20px;
+  }
+  
+.redirect:hover {
+    background: #5ABAE8;
+    background: -webkit-linear-gradient(top left, #5ABAE8, #197F7D);
+    background: -moz-linear-gradient(top left, #5ABAE8, #197F7D);
+    background: linear-gradient(to bottom right, #5ABAE8, #197F7D);
+    color: white;
+}
+
+.main-container{
+    padding:20px 0;
+}
+.form-container{
+    margin:auto;
+    border:1px solid black;
+    border-radius:5px;
+    height:100%;
+    padding:15px 25px;
+    background-color:white;
+    width: 60vw;
+}
+.form{
+    padding-top:25px;
+}
+.title{
+    text-align:center;
+}
+.label{
+    font-weight:bold;
+    font-size:20px;
+    margin:0;
+}
+.form-input{
+    margin-bottom:25px;
+}
+.image-label{
+    display: inline-block;
+    margin-top: -8px
+}
+.image-text{
+    font-size:25px;
+    font-weight:bold;
+    text-align:center;
+}
+.submit-button{
+    padding:5px 20px;
+    border:none;
+    border-radius:5px;
+    color:rgb(68, 68, 68);
+    font-size:20px;
+    font-weight:bold;
+    background: #5ABAE8;
+    background: -webkit-linear-gradient(top left, #5ABAE8, #197F7D);
+    background: -moz-linear-gradient(top left, #5ABAE8, #197F7D);
+    background: linear-gradient(to bottom right, #5ABAE8, #197F7D);
+}
+.submit-button:hover{
+    background: #4793B8;
+    background: -webkit-linear-gradient(top left, #4793B8, #197F7D);
+    background: -moz-linear-gradient(top left, #4793B8, #197F7D);
+    background: linear-gradient(to bottom right, #4793B8, #197F7D);
+}
+
+#preview{
+    margin-top:20px;
+    width:200px;
+    height:200px;
+    object-fit: cover;
+}
+
+.contenedor-productos{
+    width: 70vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-producto{
+    width: 100px; 
+    height: 100px;
+}
+
+.table-container {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.msg-container {
+    background: white;
+    margin: auto;
+    width: 50%;
+    padding: 30px 20px;
+}
+
+.user{
+    color:blue;
+    font-weight: bold;
+}
+
+.message{
+    color:green;
+    font-style: italic;
+}
+
+.date{
+    color:brown;
+}

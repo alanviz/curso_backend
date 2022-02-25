@@ -1,0 +1,23 @@
+[33mcommit 1272344a46f4b2bb9eaeb3ccfd982d23d7fbf885[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Alan Vizza <alanvizza@gmail.com>
+Date:   Thu Feb 17 20:16:48 2022 -0300
+
+    primera entrega del proyecto
+
+[33mcommit f732c904c5eb6d5a5a74db0de233a2a7a5af31f0[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Alan Vizza <alanvizza@gmail.com>
+Date:   Tue Feb 8 23:17:10 2022 -0300
+
+    websocket
+
+[33mcommit db7bea578b25d58739498ec2dbc41669496f0755[m
+Author: Alan Vizza <alanvizza@gmail.com>
+Date:   Tue Feb 8 23:14:20 2022 -0300
+
+    websockets
+
+[33mcommit d6da9d609a43e7c7a42efe669fd6c553923c9635[m
+Author: Alan Vizza <alanvizza@gmail.com>
+Date:   Tue Feb 8 22:57:04 2022 -0300
+
+    pugs&ejs

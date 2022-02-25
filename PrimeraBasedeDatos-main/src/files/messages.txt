@@ -1,0 +1,12 @@
+[
+  {
+    "user": "apramong@edu.uwaterloo.ca",
+    "message": "hey",
+    "date": "12/12/2021 16:35:43"
+  },
+  {
+    "user": "pepe_pompin@hotmail.com",
+    "message": "hi!",
+    "date": "12/12/2021 16:35:54"
+  }
+]
